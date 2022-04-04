@@ -1,6 +1,6 @@
 Hey. I'm **Kate**, a **writer**, editor, and US expat living in Vancouver, BC.
 
-I'm **currently available for volunteer documentation projects** --- especially REST API projects. Please note that while I have extensive copywriting experience, I'm still learning the ins and outs of tech writing. That said, I'm tech-savvy and learn quickly.
+I'm **currently available for volunteer documentation projects** --- especially REST API projects.
 
 My tools include:
 

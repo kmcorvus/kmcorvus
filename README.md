@@ -9,7 +9,7 @@ My tools include:
 * markdown (including GFM)
 * Postman
 
-And I understand the following languages*:
+And I understand* the following languages:
 
 * Python
 * HTML/CSS

@@ -1,23 +1,21 @@
-Hey. I'm **Kate**, a **writer**, editor, and US expat living in Vancouver, BC.
+Hi. I'm **Kate Corvus** ([LinkedIn](https://www.linkedin.com/in/katecorvus/)), a writer, editor, content strategist, and project manager living in Vancouver, BC.
 
-I'm **currently available for volunteer documentation projects** --- especially REST API projects.
-
-My tools include:
+**I enjoy working with tools like:**
 
 * Sphinx
-* reStructuredText
-* markdown (including GFM)
 * Postman
+* Coda.io
+* Airtable
+* Obsidian
+* VS Code
+* Figma
 
-And I understand* the following languages:
+**And in languages including:**
 
-* Python
+* reStructuredText (reST)
+* Markdown
 * HTML/CSS
+* Python
+* JavaScript
 * JSON
 * cURL
-
-**enough to work with their code samples*
-
-I'd add "Git" to the first list, but that one is heavily implied by the URL at the top of this page.
-
-P.S. Nice to meet you.

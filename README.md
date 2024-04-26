@@ -1,4 +1,4 @@
-Hi. I'm **Kate Corvus** ([LinkedIn](https://www.linkedin.com/in/katecorvus/)), a writer, editor, content strategist, and project manager living in Vancouver, BC.
+Hi. I'm **Kate Corvus** ([LinkedIn](https://www.linkedin.com/in/katecorvus/)), a writer, editor, and creative generalist living in Vancouver, BC.
 
 **I enjoy working with tools like:**
 
